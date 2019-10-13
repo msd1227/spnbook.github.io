@@ -12,7 +12,7 @@ This book has two purposes. First, it describes a broad class of mathematical sy
 
 **We will keep PDFs of this book freely available after publication.**
 
-## Download the [PFD of the book](book/dhbook.pdf)
+## Download the [PDF of the book](book/dhbook.pdf)
 
 ## Table of Contents
 
