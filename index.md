@@ -3,7 +3,10 @@
 
 Please link to this site using [http://spnbook.com](http://spnbook.com).
 
-Email: [jim.dai@gmail.com](jim.dai@gmail.com)
+Jim Dai             |  J. Michael Harrison
+:-------------------------:|:-------------------------:
+[The Chinese University of University of Hong Kong, Shenzhen ](https://idda.cuhk.edu.cn/en/content/6353)  |  [Stanford University](https://www.gsb.stanford.edu/faculty-research/faculty/j-michael-harrison)
+[Cornell University](https://www.orie.cornell.edu/faculty-directory/jim-dai) |
 
 This book has two purposes. First, it describes a broad class of mathematical system models, called stochastic processing networks (SPNs), that are useful as representations of service systems, industrial processes, and digital systems for computing and com-munication. And second, it develops a fluid model methodology for proving SPN stability, by which we mean proving positive recurrence of the Markov chain describing the SPN. 
 
