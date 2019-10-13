@@ -3,7 +3,7 @@
 
 Please link to this site using [http://spnbook.com](http://spnbook.com).
 
-Jim Dai             |  J. Michael Harrison
+Jim Dai                    |  J. Michael Harrison
 :-------------------------:|:-------------------------:
 [The Chinese University of University of Hong Kong, Shenzhen ](https://idda.cuhk.edu.cn/en/content/6353)  |  [Stanford University](https://www.gsb.stanford.edu/faculty-research/faculty/j-michael-harrison)
 [Cornell University](https://www.orie.cornell.edu/faculty-directory/jim-dai) |
