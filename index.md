@@ -1,7 +1,7 @@
 ---
 ---
 
-Please link to this site using [http://spnbook.com](http://spnbook.com).
+Please link to this site using [http://spnbook.org](http://spnbook.org).
 
 Jim Dai                    |  J. Michael Harrison
 :-------------------------:|:-------------------------:
