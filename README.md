@@ -2,7 +2,7 @@
 
 Companion webpage to the book “Processing Networks”.
 
-[http://www.spnbook.com/](http://www.spnbook.com/)
+[http://www.spnbook.org/](http://www.spnbook.org/)
 
 Copyright 2019 by Jim Dai and J. Michael Harrison. To be published by ... 
 
